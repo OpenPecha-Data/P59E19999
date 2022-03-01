@@ -1,0 +1,173 @@
+id: P59E19999
+initial_creation_type: input
+source_metadata:
+  title: Grammar of Buddhist Chinese
+  language: zh
+  volumes:
+    d366a1b7248943efad1720df625769d2:
+      title: 中 zhōng
+      base_file: 中 zhōng.txt
+      work_id: W85F98D85
+    6b2768bfa084480d9c9fdb6d07fbc941:
+      title: 乃至 nǎi zhì
+      base_file: 乃至 nǎi zhì.txt
+      work_id: WDFE9FEEF
+    4fde1d39a69f421eb3f6870ab8ab72a6:
+      title: 之 zhī
+      base_file: 之 zhī.txt
+      work_id: W8CA7C164
+    70dbb0e32e0745a2976373ce62cd247e:
+      title: 亦 yì
+      base_file: 亦 yì.txt
+      work_id: WE071AEED
+    a308c10b424e4285a94d65d929753367:
+      title: 今 jīn
+      base_file: 今 jīn.txt
+      work_id: WB99E68CC
+    aaba0d48fc86423bbb5d0bc7ba86fcdc:
+      title: 令 lìng
+      base_file: 令 lìng.txt
+      work_id: W14505919
+    c4222de8e8704133b6a1e2700f60923a:
+      title: 以 yǐ
+      base_file: 以 yǐ.txt
+      work_id: W64344C63
+    f26a298478cb4bd3a660116733dd9a71:
+      title: 何 hé
+      base_file: 何 hé.txt
+      work_id: W579437B9
+    2a1689a17b2840858b8aefd62ada7cb6:
+      title: 共 gòng
+      base_file: 共 gòng.txt
+      work_id: W5095C59F
+    3136f212544741d39b3f4e3dd8f7a4e6:
+      title: 和 hé
+      base_file: 和 hé.txt
+      work_id: WEEEAEDB6
+    91e8f5f46d5f48e9811cb6465e6c41ed:
+      title: 因 yīn
+      base_file: 因 yīn.txt
+      work_id: W42510166
+    1b0374f149ce4dc9a9387155ed00d06d:
+      title: 圓 yuán
+      base_file: 圓 yuán.txt
+      work_id: WB6EE5C8B
+    699e72cf126945c89959164f5b206ae6:
+      title: 在 zài
+      base_file: 在 zài.txt
+      work_id: W33940666
+    0d2c7e03b8bf4c3d86ef79d3f23607d2:
+      title: 在…中 zài zhōng
+      base_file: 在…中 zài zhōng.txt
+      work_id: W4073DE03
+    e0373873f4d94e489961a02c7a147413:
+      title: 增上 zēng shàng
+      base_file: 增上 zēng shàng.txt
+      work_id: WA974AF72
+    57f7013c9694462a8c3af7018975509c:
+      title: 如 rú
+      base_file: 如 rú.txt
+      work_id: W2434511A
+    bfd6f5e5a66b4a369d6e4eb63afe690d:
+      title: 屬 shǔ
+      base_file: 屬 shǔ.txt
+      work_id: W24FE19D2
+    7457cd748c6143a28159446eb93ba4f4:
+      title: 已 yǐ
+      base_file: 已 yǐ.txt
+      work_id: W3AA051F6
+    ec6efe2f0a8a40efb17c342a7bdec1cc:
+      title: 復 fù
+      base_file: 復 fù.txt
+      work_id: W9A95B159
+    fdf5810e752a40e39af4b87f749cc38e:
+      title: 性 xìng
+      base_file: 性 xìng.txt
+      work_id: W89488400
+    bcd82841f8e34157a432725365c7ff3a:
+      title: 應 yīng
+      base_file: 應 yīng.txt
+      work_id: WBD6366D8
+    3affbf933b3344c9b6d72c298f4a242d:
+      title: 所 suǒ
+      base_file: 所 suǒ.txt
+      work_id: W11EE2796
+    37db9a9cc9fd410abf8b9740edc5c488:
+      title: 故 gù
+      base_file: 故 gù.txt
+      work_id: W816D5A05
+    73211d8fd7ab4311aaa24bbb60111b85:
+      title: 於 yú
+      base_file: 於 yú.txt
+      work_id: W1C24EA58
+    5ad5138678c449f091a7ed53061b55c1:
+      title: 於…中 yú zhōng
+      base_file: 於…中 yú zhōng.txt
+      work_id: W0EC66F0D
+    771e8c39055c480bbddd80c351f27218:
+      title: 是 shì
+      base_file: 是 shì.txt
+      work_id: W59750720
+    8df7470c8dcd4390a942bbd0179c0c14:
+      title: 正 zhèng
+      base_file: 正 zhèng.txt
+      work_id: WAA7549E5
+    9822bc60c1864a289408de3e055ef0dd:
+      title: 爲 wèi
+      base_file: 爲 wèi.txt
+      work_id: W7852E160
+    c4d9e6eb8a9c4dad97bc154413a199eb:
+      title: 爲 wéi
+      base_file: 爲 wéi.txt
+      work_id: WE7C6C77F
+    8a78c3af2b45463a9588ea0dbce5d5cf:
+      title: 由 yóu
+      base_file: 由 yóu.txt
+      work_id: WDA733148
+    6fc15e95eb97407e9e96bb4da37ce5c7:
+      title: 異 yì
+      base_file: 異 yì.txt
+      work_id: W49670173
+    4c6c0ac740ac4798855d66ba94a45754:
+      title: 當 dāng
+      base_file: 當 dāng.txt
+      work_id: W3BC733BC
+    0734a9d7bfb845f28479238bdf43e757:
+      title: 者 zhě
+      base_file: 者 zhě.txt
+      work_id: W6DB81618
+    477570f0f6a04f3b82279cd6813e8f7f:
+      title: 與 yǔ
+      base_file: 與 yǔ.txt
+      work_id: W8EE1AAA4
+    c95c7fe5ee2f498ba7f88ae28f8ebac1:
+      title: 若 ruò
+      base_file: 若 ruò.txt
+      work_id: W99D243D2
+    403c526c7f804a10815d17ca8ca36193:
+      title: 若…者 ruò…zhě
+      base_file: 若…者 ruò…zhě.txt
+      work_id: WFFB67B08
+    bdfb144e9d8f46af8956946e96ef7bd6:
+      title: 若…若 ruò...ruò
+      base_file: 若…若 ruò...ruò.txt
+      work_id: WB83B8F3F
+    39adfee9a966432e82d6183bd654112b:
+      title: 諸 zhū
+      base_file: 諸 zhū.txt
+      work_id: W7DE8839B
+    fc157843959a47019788875fda6d2528:
+      title: 遍 biàn
+      base_file: 遍 biàn.txt
+      work_id: W77996FDA
+    736c37cd7d2e4e84a604c14c66777a24:
+      title: 隨 suí
+      base_file: 隨 suí.txt
+      work_id: W51F4EEF2
+    0e61176400f94d6d906b18a4b4895c1f:
+      title: 雜 zá
+      base_file: 雜 zá.txt
+      work_id: W00DBBA32
+  chapter_to_tile: {}
+created_at: '2022-03-01T23:54:55.663550'
+last_modified_at: '2022-03-01T23:54:55.663558'

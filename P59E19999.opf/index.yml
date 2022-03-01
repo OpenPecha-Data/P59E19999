@@ -1,0 +1,250 @@
+id: 81a8b547a873470faedc2a615a1cfd38
+annotation_type: index
+revision: '00001'
+annotations:
+  864cece5ffd0473d9e64d4146bc1626d:
+    work_id: W85F98D85
+    span:
+      vol: 中 zhōng
+      start: 0
+      end: 9
+  69ef0c18af4f4ebab76636f16d31da13:
+    work_id: WDFE9FEEF
+    span:
+      vol: 乃至 nǎi zhì
+      start: 0
+      end: 12
+  2e8ffc898101429aa1ebddc82ccff388:
+    work_id: W8CA7C164
+    span:
+      vol: 之 zhī
+      start: 0
+      end: 7
+  f9ea8d85eb064c6ea4ab5aae114f4917:
+    work_id: WE071AEED
+    span:
+      vol: 亦 yì
+      start: 0
+      end: 6
+  230ad0847a474aafb77cf9190af1e158:
+    work_id: WB99E68CC
+    span:
+      vol: 今 jīn
+      start: 0
+      end: 7
+  961ccc9536434e1a877f02efbc3bc170:
+    work_id: W14505919
+    span:
+      vol: 令 lìng
+      start: 0
+      end: 8
+  a9c99a6e0ee844f0a9ba7ad801201d77:
+    work_id: W64344C63
+    span:
+      vol: 以 yǐ
+      start: 0
+      end: 6
+  fbf36d075b6e4c95a01c2b0ee224791c:
+    work_id: W579437B9
+    span:
+      vol: 何 hé
+      start: 0
+      end: 6
+  b7f30f8b590a48efbaa553e42645bde3:
+    work_id: W5095C59F
+    span:
+      vol: 共 gòng
+      start: 0
+      end: 8
+  0ca34c0c72644e848680c0cf18a277ab:
+    work_id: WEEEAEDB6
+    span:
+      vol: 和 hé
+      start: 0
+      end: 6
+  8722f8cd926e431dab534f0f66c4270a:
+    work_id: W42510166
+    span:
+      vol: 因 yīn
+      start: 0
+      end: 7
+  d3683df788da4a16a70b94d372baf526:
+    work_id: WB6EE5C8B
+    span:
+      vol: 圓 yuán
+      start: 0
+      end: 8
+  7db6851fc2c94f60a8b44f9be7787c6e:
+    work_id: W33940666
+    span:
+      vol: 在 zài
+      start: 0
+      end: 7
+  439eda372b80449896c6f7476bdb14fc:
+    work_id: W4073DE03
+    span:
+      vol: 在…中 zài zhōng
+      start: 0
+      end: 15
+  975c1e71c2f6401db9ec9e353635e5f0:
+    work_id: WA974AF72
+    span:
+      vol: 增上 zēng shàng
+      start: 0
+      end: 15
+  f47268d83c6b4d63812052841207f9cb:
+    work_id: W2434511A
+    span:
+      vol: 如 rú
+      start: 0
+      end: 6
+  f1e15b83901644c891a4e41795d89a0c:
+    work_id: W24FE19D2
+    span:
+      vol: 屬 shǔ
+      start: 0
+      end: 7
+  7e7da0dc7fdd4769bd8c8939d035978b:
+    work_id: W3AA051F6
+    span:
+      vol: 已 yǐ
+      start: 0
+      end: 6
+  0020a2b4f09d4dffbdd899850722af7d:
+    work_id: W9A95B159
+    span:
+      vol: 復 fù
+      start: 0
+      end: 6
+  d5e9243212c44255a1a9542da04968ef:
+    work_id: W89488400
+    span:
+      vol: 性 xìng
+      start: 0
+      end: 8
+  f229bcab18154e43a784cdcec4d06cbc:
+    work_id: WBD6366D8
+    span:
+      vol: 應 yīng
+      start: 0
+      end: 8
+  fca0f73965474207ba32f4edcb5bd03a:
+    work_id: W11EE2796
+    span:
+      vol: 所 suǒ
+      start: 0
+      end: 7
+  9190c47329914ce2b0a25394f7c1a959:
+    work_id: W816D5A05
+    span:
+      vol: 故 gù
+      start: 0
+      end: 6
+  fbce03c520b446fcae356e1c6214e3fe:
+    work_id: W1C24EA58
+    span:
+      vol: 於 yú
+      start: 0
+      end: 6
+  f8ced9c0d3ef48c4b03a5f9f02d8ea69:
+    work_id: W0EC66F0D
+    span:
+      vol: 於…中 yú zhōng
+      start: 0
+      end: 14
+  89a286a29bfd411d9f09936a3b716200:
+    work_id: W59750720
+    span:
+      vol: 是 shì
+      start: 0
+      end: 7
+  1aa1e5d218714bbdb1879e5a4f03cad2:
+    work_id: WAA7549E5
+    span:
+      vol: 正 zhèng
+      start: 0
+      end: 9
+  f2a6ce1167b94cb597f16e20a4adba3d:
+    work_id: W7852E160
+    span:
+      vol: 爲 wèi
+      start: 0
+      end: 7
+  deade339705644a694738f322a25a393:
+    work_id: WE7C6C77F
+    span:
+      vol: 爲 wéi
+      start: 0
+      end: 7
+  07d014e4d19d41ffa1792c3fc103bf8d:
+    work_id: WDA733148
+    span:
+      vol: 由 yóu
+      start: 0
+      end: 7
+  be9765c1ac9145ed9d23bf356afc0072:
+    work_id: W49670173
+    span:
+      vol: 異 yì
+      start: 0
+      end: 6
+  51706b75727145f283bb4c97562da5e2:
+    work_id: W3BC733BC
+    span:
+      vol: 當 dāng
+      start: 0
+      end: 8
+  f793e79ade5e4ecf92106b489eb91ef7:
+    work_id: W6DB81618
+    span:
+      vol: 者 zhě
+      start: 0
+      end: 7
+  02776e35e37a465a9057629001d28ed7:
+    work_id: W8EE1AAA4
+    span:
+      vol: 與 yǔ
+      start: 0
+      end: 6
+  f3498afec9794da2aea258634fed1e13:
+    work_id: W99D243D2
+    span:
+      vol: 若 ruò
+      start: 0
+      end: 22
+  a511aca778cb446894151158729b717e:
+    work_id: WFFB67B08
+    span:
+      vol: 若…者 ruò…zhě
+      start: 0
+      end: 26
+  f34d70e6dee4476ea6ec05d3d4d3c759:
+    work_id: WB83B8F3F
+    span:
+      vol: 若…若 ruò...ruò
+      start: 0
+      end: 15
+  103eabe39fff4e9e9fce527816180a81:
+    work_id: W7DE8839B
+    span:
+      vol: 諸 zhū
+      start: 0
+      end: 7
+  993f269fa2e741e8aaa14ff386c03f31:
+    work_id: W77996FDA
+    span:
+      vol: 遍 biàn
+      start: 0
+      end: 8
+  907a038b1e35421d9d539cbd252e3458:
+    work_id: W51F4EEF2
+    span:
+      vol: 隨 suí
+      start: 0
+      end: 7
+  dde3d5081389473782527d939428a38e:
+    work_id: W00DBBA32
+    span:
+      vol: 雜 zá
+      start: 0
+      end: 6
